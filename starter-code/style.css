@@ -47,6 +47,10 @@ h2{
         height: 0;
         font-size: 0;
 }
+img{
+  width:150px;
+  height:200px;
+}
 footer{
   clear:both;
   background-color:#808080;
